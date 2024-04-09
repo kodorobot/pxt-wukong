@@ -1,6 +1,6 @@
 {
     "name": "wuKong",
-    "version": "1.5.4",
+    "version": "1.5.3",
     "description": "micro:bit multifunctional expansion board WuKong",
     "license": "MIT",
     "dependencies": {
@@ -23,7 +23,7 @@
     ],
     "public": true,
     "targetVersions": {
-        "target": "4.0.18",
+        "target": "6.0.25",
         "targetId": "microbit"
     },
     "supportedTargets": [
