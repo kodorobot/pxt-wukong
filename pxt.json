@@ -5,7 +5,7 @@
     "license": "MIT",
     "dependencies": {
         "core": "*",
-        "neopixel": "github:kodorobot/pxt-neopixel",
+        "neopixel": "github:kodorobot/pxt-neopixel#80e599bb616788be2df31fca91f00b872f475e32",
         "microphone": "*"
     },
     "files": [
